@@ -1,7 +1,5 @@
 ## Hi, I'm 郭曜碩! 👋
 
-# Hi, I'm [你的名字] 👋
-
 > **Backend Engineer | Data Expert**
 > 專注於高效能系統開發與序列數據處理。擅長將前沿研究（Mamba/SSD）轉化為可落地、高效率的工程實作。
 
@@ -26,5 +24,5 @@
 ---
 
 ### 📊 GitHub ActivitytHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saulkuo123@show_icons=true&theme=transparent)
 
