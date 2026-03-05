@@ -1,29 +1,30 @@
 ## Hi, I'm 郭曜碩! 👋
 
-> **Data Analyst & Aspiring Backend Engineer**
-> 專注於高效能架構與數據驅動的解決方案。擁有 Mamba 與序列推薦系統的研究背景。
+# Hi, I'm [你的名字] 👋
+
+> **Backend Engineer | Data Expert**
+> 專注於高效能系統開發與序列數據處理。擅長將前沿研究（Mamba/SSD）轉化為可落地、高效率的工程實作。
 
 ---
 
-### 🛠️ Tech Stack
+### ⚡ Tech Stack & Tools
 
-| Category | Tools |
-| :--- | :--- |
-| **Backend** | Python, C, SQL (MySQL) |
-| **Data & AI** | PyTorch, Mamba/SSD, Sequence Modeling |
-| **Research** | Sequential Recommendation, Signal Processing in RecSys |
+* **Languages:** Python (Advanced), C, SQL
+* **Backend & Tools:** Git, Docker, Linux, FastAPI/Flask
+* **Data & AI:** PyTorch, Mamba-based Architectures, Sequential Modeling, NumPy, Pandas
 
 ---
 
-### 🚀 Featured Research: STM4Rec
+### 🚀 Featured Project: STM4Rec
 
-**Short-Term-enhanced Structured State Space Duality Model** *2024.10 - 2025.06*
+**輕量化序列推薦架構實作** | *2024.10 - 2025.06*
 
-* **Core:** 以 **State Space Duality (Mamba-based)** 架構取代傳統 Attention，大幅降低長序列建模的運算成本。
-* **Innovation:** 引入 **Frequency-aware** 降噪模組與 **MLP 非線性分支**，強化對稀疏數據的特徵捕捉。
-* **Result:** 實現了更優的推論效率與準確率平衡。
+* **效率優化：** 成功實作 **State Space Duality (SSD)** 引擎，取代運算成本極高的 Transformer Attention，顯著提升長序列下的推論速度。
+* **精準建模：** 整合 **Frequency-aware** 模組與 **MLP 分支**，在維持輕量化的同時，解決了推薦系統常見的數據稀疏與過擬合問題。
+* **工程實踐：** 透過 **Hybrid Fusion Layer** 達成多分支特徵的動態融合，在多項公開資料集上取得效能（Efficiency）與準確率（Accuracy）的最佳平衡。
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub ActivitytHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent)
 
